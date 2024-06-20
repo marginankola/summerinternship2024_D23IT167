@@ -72,13 +72,40 @@ Apart from CSS, I gained knowledge about web design and web development, and the
 ### Day-4:
 
 ● Continued working on the blog-post page using CSS.<br/>
-● Created other pages and components such as an accordion and carousel (task-3, 4).
+● Created other pages and components such as an accordion and carousel. (task-3, 4)
 
 ### Day-5:
 
-● Created hero sections, tables, and page number designs (task-5, 6, 7).<br/>
+● Created hero sections, tables, and page number designs. (task-5, 6, 7)<br/>
 ● Also, designed an app layout for the webpage. (task-8)
 
 ### week-3
 
 In Week 3, I utilized the knowledge I gained in the second week to create some designs. I focused on developing a webpage for a website using grid and flex layouts. My task was to create and give the website a professional appearance by understanding its brand's startup personality, selecting suitable color schemes, incorporating relevant images, and enhancing the user interface.
+
+## Day by day process
+
+### Day-1:
+
+● Did some design edits on existing website.
+
+### Day-2:
+
+● Started working on project to build a website. (task-9)<br/>
+● Gathered some information about the website.<br/>
+● Gathered images, color scheme for website.
+
+### Day-3:
+
+● Made raw sketch website.<br/>
+● Created simple layout for website.<br/>
+● Started creating website.
+
+### Day-4:
+
+● created navigation and hero section of website.<br/>
+● desined it using CSS.
+
+### Day-5:
+
+● Created article section for website.
