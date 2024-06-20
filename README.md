@@ -1,4 +1,4 @@
-# summerinternship2024_D23IT167
+# Summerinternship2024_D23IT167
 
 # 4th Sem Summerinternship2024 by D23IT167.
 
@@ -79,7 +79,7 @@ Apart from CSS, I gained knowledge about web design and web development, and the
 ● Created hero sections, tables, and page number designs. (task-5, 6, 7)<br/>
 ● Also, designed an app layout for the webpage. (task-8)
 
-### week-3
+# week-3
 
 In Week 3, I utilized the knowledge I gained in the second week to create some designs. I focused on developing a webpage for a website using grid and flex layouts. My task was to create and give the website a professional appearance by understanding its brand's startup personality, selecting suitable color schemes, incorporating relevant images, and enhancing the user interface.
 
