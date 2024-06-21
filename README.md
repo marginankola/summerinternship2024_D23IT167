@@ -109,3 +109,35 @@ In Week 3, I utilized the knowledge I gained in the second week to create some d
 ### Day-5:
 
 ● Created article section for website.
+
+# week-4
+
+During week 4, I continued working on the website which i was given. I created testimonial section, pricing section, sign in form , and footer section for the website.
+
+I also made the website responsive using media queries , and also used Javascript for creating pop-up navbar for mobile view.
+
+## Day by day process
+
+### Day-1:
+
+● Created testimonial section.<br/>
+● Also created two types of subscription paln section.
+
+### Day-2:
+
+● Created login form for user.<br/>
+● Used gradient properties to make form more eye catching to website viewers.
+
+### Day-3:
+
+● Made footer section for website.<br/>
+● After completing all the sections, did some necessory changes needed for design view.<br/>
+● Learned about media queries to make responsive website.<br/>
+● Created meadia queries for laptop respinsive view. (task-10)
+
+### Day-4:
+
+● Created media queries for tablet and mobile view.<br/>
+● Also used javascript for creating pop-up navbar for website. 
+
+
