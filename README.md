@@ -4,9 +4,9 @@
 
 Welcome to my GitHub repository for web development Internship 2024! This document showcases the work done during the internship.
 
-## web development The languages used are HTML, CSS, and a little bit of JavaScript.
+## Web development The languages used are HTML, CSS, and a little bit of JavaScript.
 
-# week-1
+# Week-1
 
 ● During the first week of the course, I delved into the fundamentals of HTML.<br/>
 ● I gained a solid understanding of basic HTML elements and learned about semantic elements, which are used to define the different parts of a web page, making the structure and content more meaningful and accessible.<br/>
@@ -41,7 +41,7 @@ Welcome to my GitHub repository for web development Internship 2024! This docume
 ● I've finished creating the blog-post page.<br/>
 ● I've also added some images to improve the user interface.
 
-# week-2
+# Week-2
 
 During week 2, I learned about the importance of CSS in webpage design. I learned how to use CSS to create attractive webpage interfaces including layouts such as float, flex, and grid. I also learned various styling techniques and applied CSS to the blog post page that I worked on during the first week. Additionally, I created other pages and components such as accordion, carousel, hero section, tables, app layout, and page number designs using CSS.
 
@@ -79,7 +79,7 @@ Apart from CSS, I gained knowledge about web design and web development, and the
 ● Created hero sections, tables, and page number designs. (task-5, 6, 7)<br/>
 ● Also, designed an app layout for the webpage. (task-8)
 
-# week-3
+# Week-3
 
 In Week 3, I utilized the knowledge I gained in the second week to create some designs. I focused on developing a webpage for a website using grid and flex layouts. My task was to create and give the website a professional appearance by understanding its brand's startup personality, selecting suitable color schemes, incorporating relevant images, and enhancing the user interface.
 
@@ -110,7 +110,7 @@ In Week 3, I utilized the knowledge I gained in the second week to create some d
 
 ● Created article section for website.
 
-# week-4
+# Week-4
 
 During week 4, I continued working on the website which i was given. I created testimonial section, pricing section, sign in form , and footer section for the website.
 
@@ -138,6 +138,8 @@ I also made the website responsive using media queries , and also used Javascrip
 ### Day-4:
 
 ● Created media queries for tablet and mobile view.<br/>
-● Also used javascript for creating pop-up navbar for website. 
+● Also used javascript for creating pop-up navbar for website.
 
+## Complition
 
+This was my 4-weeks as a web development intern, I dedicated myself to honing my skills in HTML, CSS, and JavaScript. Additionally, I delved into learning about responsive design and best practices for optimizing website performance. This valuable experience has not only solidified my existing knowledge but has also expanded my understanding of industry trends and practical application. I am looking forward to leveraging these new skills to further my career in web development and design.
